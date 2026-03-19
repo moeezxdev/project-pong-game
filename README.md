@@ -124,13 +124,7 @@ Collision detection uses raylib's `CheckCollisionCircleRec`, with directional co
 - [raylib](https://www.raylib.com/) — simple and easy-to-use game library
 - [vcpkg](https://vcpkg.io/) — C/C++ dependency manager by Microsoft
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](https://github.com/Sharjeel7911/projects/blob/main/LICENSE).
-
----
 
 <div align="center">
 Made with ❤️ and C++ <br>
